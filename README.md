@@ -1,4 +1,4 @@
-## ziocliapp
+## zio-cli-demp
 
 A simple demo application to show zio-cli in action
 
